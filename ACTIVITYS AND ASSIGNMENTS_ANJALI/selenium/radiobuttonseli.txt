@@ -1,0 +1,13 @@
+<html>  
+<head>  
+</head>  
+<body>  
+<input type="radio" name="group1" value="coffee">Coffe<br>  
+<input type="radio" name="group1" value="milk">milk<br>  
+<input type="radio" name="group1" value="grean tea">green tea<br>  
+<hr>  
+<input type="radio" name="group2" value="milkshgake">milk shake<br>  
+<input type="radio" name="group2" value="lemen tea">lemen tea<br>  
+<input type="radio" name="group2" value="ginjar tea">ginjar tea<br>  
+</body>  
+</html>  
